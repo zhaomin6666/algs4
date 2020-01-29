@@ -1,4 +1,4 @@
-package my.assignment.assignment1;
+package my.assignment.assignment.unionfind;
 
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
