@@ -1,4 +1,4 @@
-package my.assignment.assignment.unionfind;
+package my.assignment.unionfind;
 
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdRandom;

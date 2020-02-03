@@ -1,4 +1,4 @@
-package my.assignment.assignment.stacksandqueues;
+package my.assignment.stacksandqueues;
 
 public class Palindrome {
 
